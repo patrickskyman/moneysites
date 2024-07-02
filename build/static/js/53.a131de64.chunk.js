@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmoneysites=self.webpackChunkmoneysites||[]).push([[53],{2053:(s,e,t)=>{t.r(e),t.d(e,{default:()=>h});var x=t(7621),n=t(6566),l=t(547),r=t(3097),o=t(184);const h=()=>(0,o.jsx)(o.Fragment,{children:(0,o.jsxs)(n.Z,{title:"About - Moneysites",children:[(0,o.jsx)("br",{}),(0,o.jsx)(x.Z,{sx:{p:2,mx:{xs:2,lg:3},mt:8,mb:4,boxShadow:s=>{let{boxShadows:{xxl:e}}=s;return e}},children:(0,o.jsx)(l.Z,{})}),(0,o.jsx)(r.Z,{})]})})}}]);
+//# sourceMappingURL=53.a131de64.chunk.js.map
