@@ -17,7 +17,7 @@ const Main = () => {
 
   return (
     <>
-    <Page title="Home - Moneysites">
+    <Page title="Home - Ajabusites">
     
     {mobileDevice ? (
  

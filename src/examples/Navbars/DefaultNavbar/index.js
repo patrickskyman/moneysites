@@ -473,7 +473,7 @@ function DefaultNavbar({ brand, routes, transparent, light, action, sticky, rela
           })}
           style={{ display: "inline", padding: "5px" }}
         >
-          Moneysites
+          Ajabusites
         </MKTypography>
           </MKBox>
           <MKBox

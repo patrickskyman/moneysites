@@ -23,7 +23,7 @@ const AboutPage = () => {
 
   return (
     <>
-    <Page title="About - Moneysites">
+    <Page title="About - Ajabusites">
     <MKBox
         minHeight="75vh"
         width="100%"

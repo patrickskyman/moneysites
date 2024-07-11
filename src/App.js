@@ -51,10 +51,10 @@ function App() {
       <CssBaseline />
       <Router>
       <Helmet
-          titleTemplate="%s - Moneysites"
-          defaultTitle="Moneysites"
+          titleTemplate="%s - Ajabusites"
+          defaultTitle="Ajabusites"
         >
-          <meta name="description" content="Moneysites" />
+          <meta name="description" content="Ajabusites" />
         </Helmet> 
         <MainLayout>
         <Suspense fallback={<LinearProgress style={{ margin: '10rem' }} />}>
@@ -64,7 +64,7 @@ function App() {
      
         <Route path="/about-us" element={<AboutPage />} />
         <Route path="/contact-us" element={<ContactUs />} />
-        <Route path='/moneysites-for-developers/' element={<Presentation/>}/>
+        <Route path='/Ajabusites-for-developers/' element={<Presentation/>}/>
         <Route path='/pricing' element={<PricingPage/>}/>
         <Route path='/blog' element={<Places/>}/>
 

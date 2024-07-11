@@ -21,7 +21,7 @@ function MoreAboutMe() {
               See More About Us
             </Typography>
             <MKTypography variant="body2" color="text" mb={2}>
-            Explore the innovation behind Moneysites – your go-to partner for cutting-edge software development. Our skilled team blends creativity and technical prowess to deliver solutions that transcend expectations. Discover the power of collaboration with us.
+            Explore the innovation behind Ajabusites – your go-to partner for cutting-edge software development. Our skilled team blends creativity and technical prowess to deliver solutions that transcend expectations. Discover the power of collaboration with us.
             </MKTypography>
             <MKTypography
               component="a"

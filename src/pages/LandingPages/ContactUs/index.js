@@ -19,7 +19,7 @@ import CommentSummaryChart from "view/Detail/Imports/CommentSummaryChart";
 function ContactUs() {
   return (
     <>
-    <Page title="Contact - Moneysites">
+    <Page title="Contact - Ajabusites">
     <MKBox
         minHeight="75vh"
         width="100%"
@@ -115,7 +115,7 @@ function ContactUs() {
             <MKBox p={3}>
               <MKTypography variant="body2" color="text" mb={3}>
                 For further questions, including partnership opportunities, please email
-                hello@moneysites.net or contact us using our contact form.
+                hello@Ajabusites.net or contact us using our contact form.
               </MKTypography>
               <MKBox width="100%" component="form" method="post" autoComplete="off">
                 <Grid container spacing={0}>

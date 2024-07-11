@@ -1,11 +1,11 @@
 {
-  "name": "moneysites",
+  "name": "Ajabusites",
   "version": "1.0.0",
   "private": true,
-  "author": "Moneysites",
+  "author": "Ajabusites",
   "license": "ISC",
-  "description": "Moneysites",
-  "homepage": "https://moneysites.net",
+  "description": "Ajabusites",
+  "homepage": "https://Ajabusites.net",
   "repository": {
     "type": "git",
     "url": ""

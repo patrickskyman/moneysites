@@ -43,7 +43,7 @@ export default function Promotional({
                   </Typography>
                   </Zoom>
               </Box> 
-                <p className="lead text-blue mb-sm-2 mb-2">Author | Founder and CEO of Moneysites</p>
+                <p className="lead text-blue mb-sm-2 mb-2">Author | Founder and CEO of Ajabusites</p>
 
                 <div className="container">
                 <p >''Adept in bringing forth expertise in the design, installation, testing, and maintenance of software systems. Possess a diverse and promising skill-set, and a proven track record of working on Software projects. Capable of self-managing independent projects or collaborating as a team.''</p>

@@ -72,7 +72,7 @@ function Footers({company, links, socials, light}){
                   variant="body2"
                   color={ "white"}
                 >
-                 Moneysites
+                 Ajabusites
                 </Typography>
                 
               </Typography>
@@ -83,7 +83,7 @@ function Footers({company, links, socials, light}){
 }
 
 Footers.defaultProps = {
-    company: {  name: "Moneysites" },
+    company: {  name: "Ajabusites" },
     links: [
       {  name: "Company" },
       { name: "About Me" },

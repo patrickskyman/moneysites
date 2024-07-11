@@ -5,7 +5,7 @@ import TwitterIcon from "@mui/icons-material/Twitter";
 import YouTubeIcon from "@mui/icons-material/YouTube";
 
 const router = {
-  brand: "Moneysites",
+  brand: "Ajabusites",
   socials: [
     {
       icon: <FacebookIcon />,

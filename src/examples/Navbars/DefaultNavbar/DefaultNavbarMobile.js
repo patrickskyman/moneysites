@@ -20,7 +20,7 @@ import MKTypography from "components/MKTypography";
 import DefaultNavbarDropdown from "examples/Navbars/DefaultNavbar/DefaultNavbarDropdown";
 
 function DefaultNavbarMobile({ routes, open }) {
-  const name = 'Moneysites'
+  const name = 'Ajabusites'
   const [collapse, setCollapse] = useState("");
 
   const handleSetCollapse = (name) => (collapse === name ? setCollapse(false) : setCollapse(name));

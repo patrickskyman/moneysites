@@ -21,7 +21,7 @@ const PricingPage = () => {
  
 
   return (
-    <Page title="Pricing - Moneysites">
+    <Page title="Pricing - Ajabusites">
       <MKBox
         minHeight="75vh"
         width="100%"

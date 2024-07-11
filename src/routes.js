@@ -49,7 +49,7 @@ const routes = [
         {
           name: "Developers Page",
           description: "Read more",
-          route: "/moneysites-for-developers",
+          route: "/Ajabusites-for-developers",
           component: <Presentation />,
         },
       
@@ -74,12 +74,12 @@ const routes = [
       {
         name: "careers",
         description: "Current openings",
-        href: "https://www.moneysites.net/careers",
+        href: "https://www.Ajabusites.net/careers",
       },
       {
         name: "customer stories",
         description: "Read interesting customer stories",
-        href: "https://www.moneysites.net/customer-stories",
+        href: "https://www.Ajabusites.net/customer-stories",
       },
 
     ],

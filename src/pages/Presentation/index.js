@@ -3,7 +3,7 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Card from "@mui/material/Card";
 
-// Moneysites React components
+// Ajabusites React components
 import Page from "components/Page";
 import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
@@ -17,7 +17,7 @@ import Testimonials from "pages/Presentation/sections/Testimonials";
 function Presentation() {
   return (
     <>
-<Page title="Developers page- Moneysites">
+<Page title="Developers page- Ajabusites">
       <MKBox
         minHeight="75vh"
         width="100%"

@@ -15,7 +15,7 @@ function ResponsiveAppBar() {
         routes={routes}
         action={{
           type: "external",
-          route: "https://www.moneysites/news",
+          route: "https://www.Ajabusites/news",
           label: "News",
        
         }}
